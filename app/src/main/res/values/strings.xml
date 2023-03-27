@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App One</string>
+
+    <!-- txt -->
+    <string name="nombre">Nombre Completo</string>
+    <string name="genero">Genero</string>
+    <string name="categoria">Categoria</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="soltero">Soltero</string>
+    <string name="Casado">Casado</string>
+    <string name="Divorciado">Divorciado</string>
+    <string name="Viudo">Viudo</string>
+    <string name="imprimir">Imprimir</string>
+
+    <!-- buttons -->
+    <string name="procesar">Procesar</string>
+</resources>
